@@ -1,0 +1,2 @@
+# Force .ipynb files to be recognized as Jupyter Notebook
+*.ipynb linguist-language=Jupyter Notebook
